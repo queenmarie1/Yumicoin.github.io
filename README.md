@@ -5,6 +5,11 @@ You can use the [editor on GitHub](https://github.com/queenmarie1/Yumicoin.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+~ $ gem install bundle Jekyll 
+~ $ Jekyll  new my awesome -site
+~ $ CD my-awesome-site
+~/my-awesome-site $ bundle exec jekll
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
