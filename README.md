@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hello world <h1>
+## Welcome to Yumicoin <h2>
+### Header <h3>
 
 - Bulleted
 - List
@@ -21,10 +21,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**This text will be bold** and _ This will also be Italic_ and `Code` text
+ _This text will be bold_      **This will be italic**
+  
+[Link to Google !]
+  (url)(http://github.com - automatic! 
+  [Github]and ![Github logo][/Images/logo.png]
+  (src)```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
